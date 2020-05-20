@@ -1,0 +1,44 @@
+[
+    {
+      "id": 0,
+      "teamName": "Nastehh",
+      "from": "UK",
+      "rank": "Valorant",
+      "quantity": "5",
+      "mmr": "2200",
+      "description": "Squad of young guns."
+    },
+    {
+        "id": 1,
+        "teamName": "Sentty",
+        "from": "UK",
+        "rank": "Valorant",
+        "quantity": "5",
+        "mmr": "2200",
+        "description": "Squad of young guns."
+      },   {
+        "id": 2,
+        "teamName": "PATF",
+        "from": "UK",
+        "rank": "Valorant",
+        "quantity": "5",
+        "mmr": "2200",
+        "description": "Squad of young guns."
+      },   {
+        "id": 3,
+        "teamName": "LMEO",
+        "from": "UK",
+        "rank": "Valorant",
+        "quantity": "5",
+        "mmr": "2200",
+        "description": "Squad of young guns."
+      },   {
+        "id": 4,
+        "teamName": "YoungGamble",
+        "from": "UK",
+        "rank": "Valorant",
+        "quantity": "5",
+        "mmr": "2200",
+        "description": "Squad of young guns."
+      }
+    ]
